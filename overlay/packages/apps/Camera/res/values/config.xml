@@ -25,5 +25,7 @@
     <bool name="needsEarlyVideoSize">true</bool>
     <bool name="alwaysUsePreferredPreviewSize">true</bool>
     <bool name="noFaceDetectOnFrontCamera">true</bool>
+    <!-- Disable face detection on the rear camera -->
+    <bool name="noFaceDetectOnRearCamera">false</bool>
     <bool name="enableZSL">true</bool>
 </resources>
