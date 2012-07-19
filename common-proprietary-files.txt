@@ -21,7 +21,7 @@ bin/bcm4334_murata.hcd
 bin/bcm4334_semco.hcd
 
 # Audio
-lib/hw/alsa.msm8960.so
+# lib/hw/alsa.msm8960.so
 lib/hw/audio_policy.msm8960.so
 lib/hw/audio.primary.msm8960.so
 lib/libacdbloader.so
